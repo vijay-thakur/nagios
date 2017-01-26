@@ -1,0 +1,7 @@
+DEPENDENCIES
+  nagios
+    path: .
+    metadata: true
+
+GRAPH
+  nagios (0.1.0)
